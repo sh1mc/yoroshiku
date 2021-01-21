@@ -1,2 +1,2 @@
 # yoroshiku
-yoroshiku.onegai.shim.earth
+https://yoroshiku.onegai.shim.earth
